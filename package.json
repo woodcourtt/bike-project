@@ -1,0 +1,21 @@
+{
+  "name": "bike-project",
+  "version": "0.1.0",
+  "description": "Ride your bike trainer to change the speed of the movie.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bike",
+    "movie",
+    "film"
+  ],
+  "author": "Woodcourtt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "johnny-five": "^0.11.5",
+    "raspi-io": "^8.0.1"
+  }
+}
